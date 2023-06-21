@@ -1,21 +1,6 @@
 # Welcome on my profil 👋
 
-<!--
-**guillaume-pages/guillaume-pages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-My name is Guillaume Pagès and I'm a software apprentice developper ! I'm study web developpement in Ada Tech School and I'm looking for an apprenticeship who can began the 9 october.
+My name is Guillaume Pagès and I'm a web apprentice developer ! I'm studying web development at Ada Tech School, and I'm looking for an apprenticeship that can begin on October 9th.
 
 What I learn at Ada Tech School and in my free time :
 
@@ -39,19 +24,18 @@ What I learn at Ada Tech School and in my free time :
 
 ## I've worked on :
 
-- Pico 8 (Training project): discover the Pico 8 tool and succeed in making a mini game in a team of 3. My classmates and I worked on making a mini adventure game where a cat wanders in space and must retrieve a golden kibble! You can go see it in the <a href="https://github.com/guillaume-pages/projet-collectif-pico8">repo</a> or at this address: https://projet-collectif-pico8.vercel.app/
-- Dataviz (Training project): this project aims to familiarize learners with using an API and displaying data on a web page. We therefore went through a bootstrap template in order to save time and focus on the display of data within web pages. You can consult the <a href="https://github.com/guillaume-pages/Projet-collectif-Dataviz">repo</a> or follow the following address: https://dataviz-sncf-98q3.vercel.app/
-- Browser extension (Training project): we used the manifest V3 version of Chrome extensions to make a small extension in pop-up format. You can check out the <a href="https://github.com/guillaume-pages/projet-collectif-extension-de-navigateur">repo</a>
+- Pico 8 (Training project) : discovered the Pico-8 tool and sand successfully created a mini game as part of a team of 3. My classmates and I worked on developing a mini adventure game where a cat wanders in space and must retrieve a golden kibble ! You can check it out in the <a href="https://github.com/guillaume-pages/projet-collectif-pico8">repository</a> or at this address: https://projet-collectif-pico8.vercel.app/.
+- Dataviz (Training project) : This project aims to familiarize learners with using an API and displaying data on a web page. Therefore, we utilized a Bootstrap template to save time and focus on the data display within web pages. You can check out the <a href="https://github.com/guillaume-pages/Projet-collectif-Dataviz">repository</a> or visit the following address: https://dataviz-sncf-98q3.vercel.app/.
+- Browser extension (Training project) : we used the manifest V3 version of Chrome extensions to make a small extension in pop-up format. You can check out the <a href="https://github.com/guillaume-pages/projet-collectif-extension-de-navigateur">repository</a>.
 
 ## I'm currently working on :
 
-- Social Network (Training project) : this project is finished but I want to finish some features and redesign the content. This project was done at 6 using Apache2, MySQL, PHPMyAdmin and PHP. The goal was to create a social network in order to connect users to each other, we started on the theme of board games. You can watch the <a href="https://github.com/guillaume-pages/projet-collectif-reseau-social-php">repo</a>.
+- Social Network (Training project) : Although this project is completed, I still have plans to finalize some features and redesign the content. It was developed by a team of 6 using Apache2, MySQL, PHPMyAdmin, and PHP. The objective was to create a social network that connects users with each other, focusing initially on the theme of board games. You can explore the <a href="https://github.com/guillaume-pages/projet-collectif-reseau-social-php">repository</a>.
 
-- Wine Cellar: this one is my big one. The project is to create a mobile application coupled with a web interface. I want my user to be able to access their wine cellar directly in their phone. Some applications already exist but I want to add my own product to the offer list already present. I aim to do a big project that will help me get my diploma and that could perhaps lead to business creation. For the moment I have just worked on the interface, made a first model on Figma and followed a tutorial in order to start experimenting with the Kotlin language. As I am looking for a work-study program, I am putting the project on hold in order to focus on my first languages and find a company that will want to welcome me and collaborate with me. In the meantime you can see a first part of the project <a href="https://github.com/guillaume-pages/Wine_cellar">here</a>.
+- Wine Cellar : This is my major project. The objective is to develop a mobile application along with a web interface. I aim to provide users with direct access to their wine cellar on their phones. While there are existing applications, I want to offer my unique product in addition to the existing options. This ambitious project is crucial for obtaining my diploma and could potentially lead to starting my own business. Currently, I have focused on designing the interface, creating an initial model using Figma, and following a tutorial to begin experimenting with the Kotlin language. Since I am actively searching for a work-study program, I have temporarily put the project on hold to concentrate on my primary languages and find a company that is willing to welcome and collaborate with me. Meanwhile, you can view the initial part of the project <a href="https://github.com/guillaume-pages/Wine_cellar">here</a>.
 
-- Node.js app: as part of a training exercise, with a friend we want to go further in the project and want to create a small API using Node.js. The goal is that the client-side user enters a sentence, our client-side code sends the request to our server, which enters it into the database. Another feature will be that the customer presses a button and a random phrase from the database will be transmitted to them.
+- Node.js app : As part of a training exercise, my friend and I are interested in expanding our project by creating a small API using Node.js. The objective is to allow the user on the client-side to enter a sentence, and then our client-side code will send the request to our server, which will store it in the database. Another feature we plan to implement is a button that, when pressed, will retrieve a random phrase from the database and display it to the user.
 
 ## Future projet :
 
-- Travel blog: I want to make a small travel blog to tell about my different stays in European capitals. I want to achieve it with the Svelte framework.
-
+- Travel blog : I intend to create a small travel blog where I can share my experiences from various stays in European capitals. I plan to build it using the Svelte framework.
