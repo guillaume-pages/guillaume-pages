@@ -1,8 +1,5 @@
 # Welcome on my profil 👋
 
-<img style="clip-path:ellipse(50% 50%);" src="https://media.licdn.com/dms/image/D4E03AQG1iXVoR-3rWw/profile-displayphoto-shrink_800_800/0/1683731529470?e=1692835200&v=beta&t=CxDZxjyWVHpucDwAHkI_P5Mgde4PqAs7egQNLLVzMAc" width="25%"/>
-
-
 My name is Guillaume Pagès and I'm a web apprentice developer ! I'm studying web development at Ada Tech School, and I'm looking for an apprenticeship that can begin on October 9th.
 
 What I learn at Ada Tech School and in my free time :
