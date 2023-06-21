@@ -28,6 +28,8 @@ What I learn at Ada Tech School and in my free time :
 ![Static Badge](https://img.shields.io/badge/Code%20-%20Kotlin-blue)
 ![Static Badge](https://img.shields.io/badge/Cloud%20-%20AWS-blue)
 
+![Static Badge](https://www.codewars.com/users/guillaume-pages/badges/small)
+
 
 # How to reach me ? 
 
@@ -44,7 +46,10 @@ I've worked on :
 I'm currently working on :
 
 - Social Network (Training project) : this project is finished but I want to finish some features and redesign the content. This project was done at 6 using Apache2, MySQL, PHPMyAdmin and PHP. The goal was to create a social network in order to connect users to each other, we started on the theme of board games. You can watch the <a href="https://github.com/guillaume-pages/projet-collectif-reseau-social-php">repo</a>.
+
 - Wine Cellar: this one is my big one. The project is to create a mobile application coupled with a web interface. I want my user to be able to access their wine cellar directly in their phone. Some applications already exist but I want to add my own product to the offer list already present. I aim to do a big project that will help me get my diploma and that could perhaps lead to business creation. For the moment I have just worked on the interface, made a first model on Figma and followed a tutorial in order to start experimenting with the Kotlin language. As I am looking for a work-study program, I am putting the project on hold in order to focus on my first languages and find a company that will want to welcome me and collaborate with me. In the meantime you can see a first part of the project <a href="https://github.com/guillaume-pages/Wine_cellar">here</a>.
+
+- Node.js app: as part of a training exercise, with a friend we want to go further in the project and want to create a small API using Node.js. The goal is that the client-side user enters a sentence, our client-side code sends the request to our server, which enters it into the database. Another feature will be that the customer presses a button and a random phrase from the database will be transmitted to them.
 
 Future projet :
 
