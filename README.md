@@ -1,17 +1,6 @@
 # Welcome on my profil 👋
 
-<img style="border-radius: 50%" src="https://media.licdn.com/dms/image/D4E03AQG1iXVoR-3rWw/profile-displayphoto-shrink_800_800/0/1683731529470?e=1692835200&v=beta&t=CxDZxjyWVHpucDwAHkI_P5Mgde4PqAs7egQNLLVzMAc" width="25%"/>
-
-<div style="display: flex; justify-content: center;">
-  <img class="rounded-image" src="https://media.licdn.com/dms/image/D4E03AQG1iXVoR-3rWw/profile-displayphoto-shrink_800_800/0/1683731529470?e=1692835200&v=beta&t=CxDZxjyWVHpucDwAHkI_P5Mgde4PqAs7egQNLLVzMAc" width="25%" />
-</div>
-
-<style>
-  .rounded-image {
-    border-radius: 50%;
-  }
-</style>
-
+<img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4E03AQG1iXVoR-3rWw/profile-displayphoto-shrink_800_800/0/1683731529470?e=1692835200&v=beta&t=CxDZxjyWVHpucDwAHkI_P5Mgde4PqAs7egQNLLVzMAc" width="25%"/>
 
 
 My name is Guillaume Pagès and I'm a web apprentice developer ! I'm studying web development at Ada Tech School, and I'm looking for an apprenticeship that can begin on October 9th.
