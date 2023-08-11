@@ -36,12 +36,9 @@ What I learn at Ada Tech School and in my free time :
 
 - Node.js app : As part of a training exercise, my friend and I are interested in expanding our project by creating a small API using Node.js. The objective is to allow the user on the client-side to enter a sentence, and then our client-side code will send the request to our server, which will store it in the database. Another feature we plan to implement is a button that, when pressed, will retrieve a random phrase from the database and display it to the user.<a href="https://github.com/guillaume-pages/serveurnodejs/tree/main">Repository</a>.
 
+- Microblogging : We have created a mini blog site. The goal is that each user can have their own page and create blog articles there. This project is build with Laravel and it run whith docker. We have use React for the Front-end. You can see the repository <a href="https://github.com/guillaume-pages/micro-blogging-the_bloggers">here</a>. 
 
 ## I'm currently working on :
 
 - Wine Cellar : This is my major project. The objective is to develop a mobile application along with a web interface. I aim to provide users with direct access to their wine cellar on their phones. While there are existing applications, I want to offer my unique product in addition to the existing options. This ambitious project is crucial for obtaining my diploma and could potentially lead to starting my own business. Currently, I have focused on designing the interface, creating an initial model using Figma, and following a tutorial to begin experimenting with the Kotlin language. Since I am actively searching for a work-study program, I have temporarily put the project on hold to concentrate on my primary languages and find a company that is willing to welcome and collaborate with me. Meanwhile, you can view the initial part of the project <a href="https://github.com/guillaume-pages/Wine_cellar">here</a>.
 
-
-## Future projet :
-
-- Travel blog : I intend to create a small travel blog where I can share my experiences from various stays in European capitals. I plan to build it using the Svelte framework.
