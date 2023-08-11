@@ -15,6 +15,8 @@ What I learn at Ada Tech School and in my free time :
 
 ![Static Badge](https://www.codewars.com/users/guillaume-pages/badges/small)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guillaume&label=Profile%20views&color=0e75b6&style=flat" alt="guillaume" /> </p>
+
 
 # How to reach me ? 
 
