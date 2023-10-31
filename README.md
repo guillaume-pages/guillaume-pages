@@ -1,6 +1,6 @@
 # Welcome on my profil 👋
 
-My name is Guillaume Pagès and I'm a web apprentice developer ! I'm studying web development at Ada Tech School, and I'm looking for an apprenticeship that can begin on October 9th.
+My name is Guillaume Pagès, and I am in the process of transitioning into a web developer career. Currently, I am studying the theory at Ada Tech School, and I am applying my knowledge in practice for the 1Village project of the Par le Monde association (GitHub link: https://github.com/parlemonde/1village).
 
 What I learn at Ada Tech School and in my free time :
 
@@ -25,21 +25,9 @@ What I learn at Ada Tech School and in my free time :
 
 ## I've worked on :
 
-- Pico 8 (Training project) : discovered the Pico-8 tool and sand successfully created a mini game as part of a team of 3. My classmates and I worked on developing a mini adventure game where a cat wanders in space and must retrieve a golden kibble ! You can check it out in the <a href="https://github.com/guillaume-pages/projet-collectif-pico8">repository</a> or at this address: https://projet-collectif-pico8.vercel.app/.
-
-- Dataviz (Training project) : This project aims to familiarize learners with using an API and displaying data on a web page. Therefore, we utilized a Bootstrap template to save time and focus on the data display within web pages. You can check out the <a href="https://github.com/guillaume-pages/Projet-collectif-Dataviz">repository</a> or visit the following address: https://dataviz-sncf-98q3.vercel.app/.
-
-- Browser extension (Training project) : we used the manifest V3 version of Chrome extensions to make a small extension in pop-up format. You can check out the <a href="https://github.com/guillaume-pages/projet-collectif-extension-de-navigateur">repository</a>.
-
-- Social Network (Training project) : Although this project is completed, I still have plans to finalize some features and redesign the content. It was developed by a team of 6 using Apache2, MySQL, PHPMyAdmin, and PHP. The objective was to create a social network that connects users with each other, focusing initially on the theme of board games. You can explore the <a href="https://github.com/guillaume-pages/projet-collectif-reseau-social-php">repository</a>.
-
-- Furniture sales platform (Training project) : first big project. We are divided into a team of 10, the team is then divided into subgroups. A back-end team, a front-end. For a week we stay in a domain, the week after we switch. For this project we decided to choose the MERN stack (MongoDB, Express, React and Node). For what ? Because we mainly study javascript, we decided to opt for NodeJs with Express in order to simplify the work, MongoDB in order to test a noSQL database and React on the front side with Vite to stay on something consistent with our future jobs. You can check the <a href="https://github.com/guillaume-pages/projet-collectif-vente-de-meubles/tree/dev">repository</a>.
-
-- Node.js app : As part of a training exercise, my friend and I are interested in expanding our project by creating a small API using Node.js. The objective is to allow the user on the client-side to enter a sentence, and then our client-side code will send the request to our server, which will store it in the database. Another feature we plan to implement is a button that, when pressed, will retrieve a random phrase from the database and display it to the user.<a href="https://github.com/guillaume-pages/serveurnodejs/tree/main">Repository</a>.
-
-- Microblogging : We have created a mini blog site. The goal is that each user can have their own page and create blog articles there. This project is build with Laravel and it run whith docker. We have use React for the Front-end. You can see the repository <a href="https://github.com/guillaume-pages/micro-blogging-the_bloggers">here</a>. 
+I worked on various projects during my time at Ada Tech School. These projects typically involved teams of 3 to 4 people, with one of them even being a larger team of 10. We used different technology stacks for these projects. The first project was developed using the LUA language. As for the others, we initially used plain JavaScript and pure PHP. Later, we enhanced these projects by integrating specific frameworks. This transformation was done to elevate our skills and improve our chances of securing internships with companies. You can explore these projects in the "Repositories" section!
 
 ## I'm currently working on :
 
-- Wine Cellar : This is my major project. The objective is to develop a mobile application along with a web interface. I aim to provide users with direct access to their wine cellar on their phones. While there are existing applications, I want to offer my unique product in addition to the existing options. This ambitious project is crucial for obtaining my diploma and could potentially lead to starting my own business. Currently, I have focused on designing the interface, creating an initial model using Figma, and following a tutorial to begin experimenting with the Kotlin language. Since I am actively searching for a work-study program, I have temporarily put the project on hold to concentrate on my primary languages and find a company that is willing to welcome and collaborate with me. Meanwhile, you can view the initial part of the project <a href="https://github.com/guillaume-pages/Wine_cellar">here</a>.
+In my free time and during my studies, I'm working on a project aimed at connecting individuals and businesses in the world of wine. Think of my project as a social network where everyone comes together around a shared passion: the world of wine! To bring this project to life, I will be building a backend that will be shared between a web application and a mobile application. The website will be fully accessible through both desktop and mobile-responsive versions. As for the mobile application, it will initially complement the web application, making it easier for users to input information about their wine bottles.
 
