@@ -4,22 +4,15 @@ My name is Guillaume Pagès, and I am in the process of transitioning into a web
 
 What I learn at Ada Tech School and in my free time :
 
-![Static Badge](https://img.shields.io/badge/Os-Linux-blue)
 ![Static Badge](https://img.shields.io/badge/IDE%20-%20VSCode-blue)
-![Static Badge](https://img.shields.io/badge/IDE%20-%20Android%20Studio-blue)
 ![Static Badge](https://img.shields.io/badge/Code%20-%20JavaScript-blue)
-![Static Badge](https://img.shields.io/badge/Code%20-%20PHP-blue)
 ![Static Badge](https://img.shields.io/badge/Code%20-%20TypeScript-blue)
-![Static Badge](https://img.shields.io/badge/Code%20-%20Kotlin-blue)
 ![Static Badge](https://img.shields.io/badge/Cloud%20-%20AWS-blue)
-
-![Static Badge](https://www.codewars.com/users/guillaume-pages/badges/small)
-
-
+![Static Badge](https://img.shields.io/badge/Framework-Next.js-blue)
 
 # How to reach me ? 
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/guillaume-pages-bb5272118/) &nbsp; <a href="mailto:guillaumepages@outlook.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg" width="5%"/> &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5%"/>](https://www.instagram.com/guillaumescook/) (It's not code, just only food !) 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/guillaume-pages-bb5272118/) &nbsp; <a href="mailto:guillaumepages@outlook.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg" width="5%"/></a>
 
 # Working :
 
