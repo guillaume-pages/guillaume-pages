@@ -16,11 +16,13 @@ What I learn at Ada Tech School and in my free time :
 
 # Working :
 
-## I've worked on :
+**Project Experience**
 
-I worked on various projects during my time at Ada Tech School. These projects typically involved teams of 3 to 4 people, with one of them even being a larger team of 10. We used different technology stacks for these projects. The first project was developed using the LUA language. As for the others, we initially used plain JavaScript and pure PHP. Later, we enhanced these projects by integrating specific frameworks. This transformation was done to elevate our skills and improve our chances of securing internships with companies. You can explore these projects in the "Repositories" section!
+During my tenure at Ada Tech School, I was involved in several collaborative projects, enhancing my teamwork and technical skills. My projects ranged from small teams of 3-4 to larger groups of up to 10 members, each focusing on diverse technology stacks. I kickstarted my journey with a project developed in LUA, honing my foundational programming skills. Progressively, I ventured into web development, utilizing plain JavaScript and PHP to create dynamic projects. Recognizing the importance of modern frameworks, my team and I transitioned to more sophisticated technologies to refine our applications, a strategic move aimed at boosting our internship prospects.
 
-## I'm currently working on :
+**Current Endeavors**
 
-In my free time and during my studies, I'm working on a project aimed at connecting individuals and businesses in the world of wine. Think of my project as a social network where everyone comes together around a shared passion: the world of wine! To bring this project to life, I will be building a backend that will be shared between a web application and a mobile application. The website will be fully accessible through both desktop and mobile-responsive versions. As for the mobile application, it will initially complement the web application, making it easier for users to input information about their wine bottles.
+Parallel to my studies, I'm passionately working on a unique initiative designed to bridge the gap between wine enthusiasts and businesses. This project, akin to a social network, aims to unite users around their shared love for wine. I'm responsible for developing a versatile backend infrastructure to support both a web and a mobile application. The web platform will offer full accessibility across devices.
+
+
 
