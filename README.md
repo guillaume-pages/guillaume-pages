@@ -10,6 +10,6 @@ What I learn at Ada Tech School and in my free time :
 ![Static Badge](https://img.shields.io/badge/Framework-Next.js-blue)
 <!-- ![Static Badge](https://img.shields.io/badge/Cloud%20-%20AWS-blue) -->
 
-# How to reach me ? 
+# For more information !
 
 You cand find and read my resume <a href="https://resume-guillaume-pages.vercel.app/" target="blank">here</a>.
