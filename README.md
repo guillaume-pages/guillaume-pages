@@ -12,4 +12,4 @@ What I learn at Ada Tech School and in my free time :
 
 # For more information !
 
-You cand find and read my resume <a href="https://guillaume-pages.vercel.app/" target="blank">here</a>.
+You cand find and read my resume <a href="https://guillaumepages.vercel.app/" target="blank">here</a>.
