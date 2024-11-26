@@ -1,14 +1,16 @@
 # Welcome on my profil 👋
 
-My name is Guillaume Pagès, and I am in the process of transitioning into a web developer career. Currently, I am studying the theory at Ada Tech School, and I am applying my knowledge in practice for the 1Village project of the Par le Monde association (GitHub link: https://github.com/parlemonde/1village).
+My name is Guillaume Pagès, and I am a recently graduated web developer from Ada Tech School. I am eager to apply my skills and collaborate on innovative new projects. During my training, I had the opportunity to contribute to the 1Village project by the Par le Monde association (GitHub link: https://github.com/parlemonde/1village), where I put my knowledge into practice in a real-world context.
 
-What I learn at Ada Tech School and in my free time :
+Currently, I am expanding my expertise by learning cloud technologies with AWS, preparing for the AWS Cloud Practitioner certification to enhance my ability to build scalable and efficient applications.
+
+My stack :
 
 ![Static Badge](https://img.shields.io/badge/IDE%20-%20VSCode-blue)
 ![Static Badge](https://img.shields.io/badge/Code%20-%20JavaScript-blue)
 ![Static Badge](https://img.shields.io/badge/Code%20-%20TypeScript-blue)
 ![Static Badge](https://img.shields.io/badge/Framework-Next.js-blue)
-<!-- ![Static Badge](https://img.shields.io/badge/Cloud%20-%20AWS-blue) -->
+![Static Badge](https://img.shields.io/badge/Cloud%20-%20AWS-blue)
 
 # For more information !
 
