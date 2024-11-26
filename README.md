@@ -15,3 +15,8 @@ My stack :
 # For more information !
 
 You cand find and read my resume <a href="https://guillaumepages.vercel.app/" target="blank">here</a>.
+
+Latest badge from AWS :
+
+[AWS Cloud Quest : Cloud Practitioner](https://www.credly.com/badges/c0798d91-72dd-4c8a-9200-450bd0ac1fc2/public_url)  
+[AWS Cloud all badges](https://www.credly.com/users/guillaume-pages.071d1d33#badge-portfolio)
